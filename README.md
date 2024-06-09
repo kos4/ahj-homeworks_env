@@ -1,4 +1,4 @@
-# Webpack5 [![Build status](https://ci.appveyor.com/api/projects/status/f4tboc9mmidw3kvv?svg=true)](https://ci.appveyor.com/project/kos4/ahj-homeworks-env)
+# Webpack5 ![CI](https://github.com/kos4/ahj-homeworks_env/actions/workflows/web.yml/badge.svg)
 
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
